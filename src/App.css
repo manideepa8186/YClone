@@ -51,11 +51,11 @@ a:link {
 
 @keyframes shimmer {
   0% {
-    background-position: -300px 0;
+    background-position: -360px 0;
   }
 
   100% {
-    background-position: 300px 0;
+    background-position: 360px 0;
   }
 }
 
